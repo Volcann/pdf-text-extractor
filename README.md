@@ -90,10 +90,3 @@ output/sample.txt
 * [ ] Add OCR support for scanned PDFs
 * [ ] Improve text formatting (paragraphs, tables, etc.)
 * [ ] Add tests for batch extraction
-
-```
-
----
-
-👉 Do you want me to also generate a **commit message** for this new `README.md`?
-```
