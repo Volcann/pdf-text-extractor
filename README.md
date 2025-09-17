@@ -82,11 +82,3 @@ output/sample.txt
 * Works best with text-based PDFs (not scanned images).
 * For scanned/image PDFs, consider integrating **OCR** (e.g., `pytesseract` + `pdf2image`).
 * Modify `scripts/run_extractor.py` if you want custom formatting.
-
----
-
-## ✨ To-Do
-
-* [ ] Add OCR support for scanned PDFs
-* [ ] Improve text formatting (paragraphs, tables, etc.)
-* [ ] Add tests for batch extraction
